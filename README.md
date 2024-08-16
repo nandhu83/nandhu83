@@ -54,4 +54,13 @@ I am a passionate **Software Developer** with a focus on **Front End Web Develop
   <a href="https://github.com/yourusername" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" width="40" height="40"/>
   </a>
+  <a href="https://www.instagram.com/yourusername" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
+  </a>
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="X (formerly Twitter)" width="40" height="40"/>
+  </a>
+  <a href="https://stackoverflow.com/users/youruserid/yourusername" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" width="40" height="40"/>
+  </a>
 </p>
