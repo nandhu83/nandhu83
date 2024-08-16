@@ -39,7 +39,7 @@ I am a passionate **Software Developer** with a focus on **Front End Web Develop
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
 </p>
 
-## 🛠️ IDEs & Tools
+## 🛠️ IDEs 
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio" width="40" height="40"/>
