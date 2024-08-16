@@ -1,32 +1,13 @@
 # Hi there, I'm Nandakumaran M! 👋
 
 
-// 🌟 About Me
+## About Me
+I am a passionate **Software Developer** with a focus on **Front End Web Development**, **App Development in Flutter**, and **Data Visualization**. I enjoy building user-centric applications with a strong emphasis on UI/UX design, and I'm always eager to learn and explore new technologies.
 
-const Nandakumaran = {
-    fullName: "Nandakumaran M",
-    title: "Software Developer",
-    focus: [
-        "Front End Web Development",
-        "App Development in Flutter",
-        "Data Visualization"
-    ],
-    mission: "Bridge the gap between technology and human interaction by designing user-centric applications.",
-    passions: {
-        creativity: "Believes in the power of design to inspire, engage, and transform.",
-        innovation: "Always exploring cutting-edge technologies that push the boundaries of what's possible.",
-        impact: "Dedicated to making a tangible difference, from accessible applications for the visually impaired to smart solutions for plant health monitoring."
-    },
-    currentFocus: {
-        plantHealthMonitoring: "Developing intelligent systems to monitor and improve plant health.",
-        accessibility: "Building applications that empower visually impaired users with the latest technology."
-    },
-    learning: ["Advanced Machine Learning", "Deep Learning techniques"],
-    contact: {
-        email: "mnandakumaran83@gmail.com",
-        connectMessage: "Let's connect! Whether you're into tech, design, or just want to chat, reach out anytime."
-    }
-};
+- 🔭 I’m currently working on projects related to **plant health monitoring** and **accessible applications** for the visually impaired.
+- 🌱 I’m currently learning advanced **Machine Learning** and **Deep Learning** techniques.
+- 📫 How to reach me: [mnandakumaran83@gmail.com](mailto:mnandakumaran83@gmail.com)
+
 
 ## 🔧 Skills & Tools
 
