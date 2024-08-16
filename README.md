@@ -39,6 +39,14 @@ I am a passionate **Software Developer** with a focus on **Front End Web Develop
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
 </p>
 
+## 🛠️ IDEs & Tools
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/android-studio.png" alt="Android Studio" width="40" height="40"/>
+</p>
+
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/mnandamaran-815b652481)
