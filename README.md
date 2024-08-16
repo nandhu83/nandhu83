@@ -48,16 +48,13 @@ I am a passionate **Software Developer** with a focus on **Front End Web Develop
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mnandamaran-815b652481" target="_blank">
+  <a href="www.linkedin.com/in/m-nandakumaran-815b65248" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
+  <a href="https://x.com/NandakumaranM?t=FibVdMukZVnaESk6BGz94g&s=08" target="_blank">
     <img src="https://img.icons8.com/?size=512&id=jlpBF1fJe9fs&format=png" alt="X (formerly Twitter)" width="40" height="40"/>
   </a>
-  <a href="https://stackoverflow.com/users/youruserid/yourusername" target="_blank">
+  <a href="https://stackoverflow.com/users/25207920/nandhu" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" width="40" height="40"/>
   </a>
 </p>
