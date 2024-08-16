@@ -47,5 +47,11 @@ I am a passionate **Software Developer** with a focus on **Front End Web Develop
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/mnandamaran-815b652481)
-- [GitHub](https://github.com/yourusername)
+<p align="left">
+  <a href="https://www.linkedin.com/in/mnandamaran-815b652481" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" width="40" height="40"/>
+  </a>
+</p>
