@@ -48,7 +48,7 @@ I am a passionate **Software Developer** with a focus on **Front End Web Develop
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/m-nandakumaran-815b65248" target="_blank">
+  <a href="https://www.linkedin.com/in/m-nandakumaran-815b65248/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://x.com/NandakumaranM?t=FibVdMukZVnaESk6BGz94g&s=08" target="_blank">
