@@ -20,37 +20,6 @@ I am a passionate **Software Developer** with a focus on **Front End Web Develop
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
 </p>
 
-## 💼 Professional Experience
-
-### [Hitachi Energy](https://www.hitachienergy.com) - Software Developer Intern
-_June 19, 2024 - Sep 19, 2024_
-
-- Developed and maintained web applications using .NET MVC framework, ensuring optimized performance and security compliance.
-- Built responsive and dynamic user interfaces using React.js, enhancing user experience and accessibility.
-- Implemented data visualization dashboards in Power BI, enabling real-time insights and data-driven decision-making.
-- Participated in agile development processes, contributing to full software lifecycle management.
-
-## 🌱 Projects
-
-### PlantHealthPro
-- **Role:** Developer
-- **Technologies Used:** Flutter, DenseNet-121, SCI, E-commerce Integration
-- Developed a mobile application focused on intuitive and user-friendly interfaces for plant disease detection and management.
-- Integrated DenseNet-121 for accurate plant disease detection and SCI techniques for enhanced image analysis.
-
-### VMail
-- **Role:** Developer
-- **Technologies Used:** ReactJS, MongoDB, Node.js, Express, NLP
-- Created a voice mail application for visually impaired users, with full voice-based interaction using deep learning and NLP for accessibility.
-
-## 📊 Certifications
-
-- **RPA Design and Development V4.0** - UIPath
-- **MongoDB Basics** - ICT Academy Learnathon
-- **Python Programming** - Guvi
-- **Git and GitHub** - Guvi
-- **CyberSecurity Foundation** - Hitachi Energy
-
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/mnandamaran-815b652481)
