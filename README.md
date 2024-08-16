@@ -13,12 +13,20 @@ I am a passionate **Software Developer** with a focus on **Front End Web Develop
 ## 🔧 Skills & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/uipath.png" alt="UIPath" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png" alt="Premiere Pro" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" alt="After Effects" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-xd.png" alt="Adobe XD" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="PowerBI" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
 </p>
+
 
 ## 📫 Connect with Me
 
