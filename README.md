@@ -1,6 +1,5 @@
 # Hi there, I'm Nandakumaran M! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 ## About Me
 I am a passionate **Software Developer** with a focus on **Front End Web Development**, **App Development in Flutter**, and **Data Visualization**. I enjoy building user-centric applications with a strong emphasis on UI/UX design, and I'm always eager to learn and explore new technologies.
